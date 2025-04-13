@@ -104,3 +104,4 @@ Model Accuracy: 96.67%
 
 ##output
 
+![Image](https://github.com/user-attachments/assets/5be9d950-52d7-425a-ba98-f1a573922dce)
